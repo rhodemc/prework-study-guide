@@ -19,7 +19,7 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section: HTML, CSS, Git and JavaScript. For suggestions on what to where to start, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). In the console panel, you will see a list of topics from our prework modules along with a random suggestion on which topic to study first.
+To use this Prework Study Guide, you can review the notes in each section: HTML, CSS, Git and JavaScript. For suggestions on where to start, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). In the console panel, you will see a list of topics from our prework modules along with a random suggestion on which topic to study first.
 
 ## Credits
 
